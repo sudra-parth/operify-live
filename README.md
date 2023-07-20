@@ -16,16 +16,16 @@
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <div align="center">
   <a href="https://oriochain.netlify.app" target='_blank'>
     <img src="/assets/images/icon.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">BlockChain Based Documents Verfication System With-IPFS</h3>
 
@@ -49,12 +49,12 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/DevAloshe/BlockChain-Based-Documents-Verfication-System-With-IPFS-main``
+``https://github.com/sudra-parth/operify-live.git``
 
 
 2. Install the required packages:
 
-``cd BlockChain-Based-Document-Verfication-With-IPFS
+``cd operify-live
 npm install``
 
 
